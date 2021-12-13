@@ -1,7 +1,7 @@
 # Countdown
 a countdown in javascript
 
-## note
+## Note
 -this project is the result of a class on destructuring and manipulating objects.
 - Video: https://www.youtube.com/watch?v=ms0mXabu5RY
 
